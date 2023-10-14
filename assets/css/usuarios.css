@@ -1,0 +1,58 @@
+.usuario{
+    transform: translate(1490px, 15px);
+}
+
+.usuario2{
+    transform: translate(1480px, 17px);
+}
+
+.section-1{
+    width: 1500px;
+}
+
+.section-2{
+    height: 1000px;
+    width: 15%;
+    background-color: #737378;
+    position: relative;
+    transform: translateY(-1004px);
+}
+
+.aside:hover{
+    background-color: #BDBDBD;
+}
+
+.aside{
+    padding: 12px;
+    margin: 5px 0;
+}
+
+.section-3{
+background-color: #E3E3E3;
+width: 2000px;
+    height: 1000px;
+
+}
+
+.administracion{
+    transform: translate(320px, 20px);
+    font-family: Arial;
+    font-size:20px;
+}
+
+
+
+.btn-registro {
+    transform: translate(1720px, -10px);
+    border: 1px solid #2EA2DC;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10px;
+    color: #2EA2DC;
+    font-size:16px;
+    font-weight: bold;
+}
+
+.btn-registro i{
+    font-weight: bold;
+}
